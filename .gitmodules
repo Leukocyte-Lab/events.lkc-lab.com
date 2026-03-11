@@ -1,0 +1,8 @@
+[submodule "CyberSec2025"]
+	path = CyberSec2025
+	url = git@github.com:Leukocyte-Lab/CyberSec2025.git
+	branch = gh-pages
+[submodule "CyberSec2023"]
+	path = CyberSec2023
+	url = git@github.com:Leukocyte-Lab/CyberSec2023.git
+	branch = gh-pages
